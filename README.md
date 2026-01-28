@@ -1,3 +1,6 @@
+# E - Commerce Stores Sales Dashboard
+
+
 The E-Commerce Stores Sales Report dashboard visualizes key performance metrics across stores, payments, and orders.
 It features multiple charts including pie charts for payment and category breakdowns, bar graphs for top stores by sales and orders, and a monthly trend line.
 
