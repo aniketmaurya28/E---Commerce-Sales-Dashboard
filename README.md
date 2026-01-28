@@ -13,7 +13,7 @@ Displays aggregated e-commerce KPIs in a single Power BI-style view with blue-th
 
 Total Sales: 438K, Total Orders: 1500, Total Profit: 37K and with a Total Quantity: 5615. 
 
-Key Visualizations
+## Key Visualizations
 Pie Charts: Top payments by method (purple/pink slices dominant); category sales distribution.
 
 ​
