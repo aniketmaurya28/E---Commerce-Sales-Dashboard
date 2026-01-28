@@ -20,4 +20,4 @@ Pie Charts: Top payments by method (purple/pink slices dominant); category sales
 Bar Charts: Top stores by total sales (blue bars, one prominent outlier); top 5 stores/orders comparison.
 
 ​
-Line/Column Chart: Monthly trends for sales or orders (upward trajectory with blue fills).​
+Column Chart: Monthly trends for sales or orders.​
